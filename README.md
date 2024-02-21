@@ -21,3 +21,9 @@ The commands for the music bot are typical to other music bots.
 External libraries -
 The bot uses yt-dlp and ffmpeg for the music side.
 py-cord was used to handle the bot functionality.
+
+
+Forgot to add, might be important if anyone intends on using this:
+
+THe posting functionality could easily be enhanced with a censoring/filter option. I wouldn't recommend running it
+without knowing or trusting the people using it without a filter.
